@@ -1,0 +1,5 @@
+private instance-2 IP: 10.0.3.57
+public instance-1 IP: 54.82.111.190
+public instance-2 IP: 3.81.170.254
+public ALB dns : public-alb-143154391.us-east-1.elb.amazonaws.com
+private instance-1 IP: 10.0.1.49
